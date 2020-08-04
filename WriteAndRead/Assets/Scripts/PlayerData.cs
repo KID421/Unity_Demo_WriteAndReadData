@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
+using System;
 
-[System.Serializable]
+[Serializable]
 public struct PlayerData
 {
-    public Transform tra;
+    public Vector3 pos;
+    public Vector3 rot;
     public int coin;
 }
