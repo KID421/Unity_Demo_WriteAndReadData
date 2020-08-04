@@ -1,7 +1,7 @@
 # Unity_Demo_WriteAndReadData
  Unity 範例：寫入與讀取檔案
 
-網頁展示：
+網頁展示：https://kid421.github.io/Unity_Demo_WriteAndReadData/Web
 
 # 設定教學
 1. 建立結構或類別將需要儲存的資料定義為欄位
@@ -55,4 +55,4 @@
 [玩家資料結構](/WriteAndRead/Assets/Scripts/Player.cs)
 
 資料管理器
-[資料管理器](/WriteAndRead/Assets/Scripts/Player.cs)
+[資料管理器](/WriteAndRead/Assets/Scripts/DataManager.cs)
