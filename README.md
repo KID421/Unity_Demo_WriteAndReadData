@@ -52,6 +52,6 @@
 
 ## 參考 C# 連結
 
-[玩家資料結構](/WriteAndRead/Assets/Scripts/Player.cs)
+[玩家資料結構](/WriteAndRead/Assets/Scripts/PlayerData.cs)
 
 [資料管理器](/WriteAndRead/Assets/Scripts/DataManager.cs)
