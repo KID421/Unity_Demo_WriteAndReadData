@@ -51,8 +51,7 @@
 !["寫入與讀取檔案"](/tutorial7.png "寫入與讀取檔案")
 
 ## 參考 C# 連結
-需要儲存玩家資料結構或類別
+
 [玩家資料結構](/WriteAndRead/Assets/Scripts/Player.cs)
 
-資料管理器
 [資料管理器](/WriteAndRead/Assets/Scripts/DataManager.cs)
